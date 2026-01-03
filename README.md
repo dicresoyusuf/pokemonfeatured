@@ -15,7 +15,7 @@
 
 **Aplikasi web modern untuk menjelajahi data Pokémon lengkap dengan fitur interaktif.**
 
-[🚀 Live Demo](#) • [📖 Dokumentasi](#features) • [🐛 Report Bug](../../issues) • [✨ Request Feature](../../issues)
+[🚀 Live Demo](https://pokemonv1.vercel.app/) • [📖 Dokumentasi](#features) • [🐛 Report Bug](../../issues) • [✨ Request Feature](../../issues)
 
 </div>
 
