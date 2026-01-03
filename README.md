@@ -249,12 +249,15 @@ useTypes()
 
 ### Detail Page
 > Informasi lengkap Pokémon dengan shiny toggle dan cry audio
+>  <img src="/public/ss2.png" />
 
 ### Compare Page
 > Perbandingan stats 2 Pokémon side-by-side
+>  <img src="/public/ss3.png" />
 
 ### Type Chart
 > Tabel keefektifan tipe yang interaktif
+>  <img src="/public/ss4.png" />
 
 ---
 
