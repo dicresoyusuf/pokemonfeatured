@@ -245,6 +245,7 @@ useTypes()
 
 ### Homepage
 > Halaman utama dengan grid Pokémon, search bar, dan generation filter
+> <img src="[https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="Pikachu" width="200](https://awesomescreenshot.s3.amazonaws.com/image/2827427/58139171-b94093187435d03604ffef5d3327852e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20260103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260103T081917Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=01850c954f41bb054ea8044e574a495a452406218417bb31cb4f398eb504d5e6)" />
 
 ### Detail Page
 > Informasi lengkap Pokémon dengan shiny toggle dan cry audio
